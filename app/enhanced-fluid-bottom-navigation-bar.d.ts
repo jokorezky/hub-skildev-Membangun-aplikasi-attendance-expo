@@ -1,0 +1,1 @@
+declare module 'enhanced-fluid-bottom-navigation-bar';
